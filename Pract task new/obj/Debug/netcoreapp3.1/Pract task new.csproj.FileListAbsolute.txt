@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.exe
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.deps.json
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.dll
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\bin\Debug\netcoreapp3.1\Pract task new.pdb
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\obj\Debug\netcoreapp3.1\Pract task new.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\obj\Debug\netcoreapp3.1\Pract task new.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\obj\Debug\netcoreapp3.1\Pract task new.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\obj\Debug\netcoreapp3.1\Pract task new.dll
+C:\Users\Anatoliy\source\repos\Pract task new\Pract task new\obj\Debug\netcoreapp3.1\Pract task new.pdb
